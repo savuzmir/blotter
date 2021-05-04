@@ -1,7 +1,6 @@
 ---
 layout: paper
 title: Limited within-host diversity and tight transmission bottlenecks limit SARS-CoV-2 evolution in acutely infected individuals
-image: /images/papers/braun-ncov-within-host-diversity.png
 authors: Braun K, Moreno G, Wagner C, Accola MA, Rehrauer WM, Baker D, Koelle K, O'Connor DH, Bedford T, Friedrich TC, Moncla LH.
 year: 2021
 ref: Braun et al. 2021. bioRxiv.

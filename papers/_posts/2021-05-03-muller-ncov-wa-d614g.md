@@ -1,7 +1,6 @@
 ---
 layout: paper
 title: Viral genomes reveal patterns of the SARS-CoV-2 outbreak in Washington State
-image: /images/papers/muller-ncov-wa-d614g.png
 authors: Müller NF, Wagner C, Frazar CD, Roychoudhury P, Lee J, Moncla LH, Pelle B, Richardson M, Ryke E, Xie H, Shrestha L, Addetia A, Rachleff VM, Lieberman NAP, Meei-Li Huang, Gautom R, Melly G, Hiatt B, Dykema P, Adler A, Brandstetter E, Han PD, Fay K, Ilcisin M, Lacombe K, Sibley TR, Truong M, Wolf CR, Boeckh M, Englund JA, Famulare M, Lutz BR, Rieder MJ, Thompson M, Duchin JS, Starita LM, Chu HY, Shendure J, Jerome KR, Lindquist S, Greninger AL, Nickerson DA, Bedford T.
 year: 2021
 ref: Müller et al. 2021. Sci Transl Med.
