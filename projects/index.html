@@ -15,7 +15,7 @@ categories:
 
 <div class="bigspacer"></div>
 
-{% for project in site.categories.resources reversed %}
+{% for project in site.categories.projects reversed %}
     {% cycle 'add rows': '<div class="row">', '', '' %}
 		<div class="col-lg-4 memberbox">
 			<div class="media">
@@ -31,3 +31,6 @@ categories:
 {% endfor %}
 {% cycle 'close rows': '', '</div>', '</div>' %}
 
+<p>
+	This website was built using the template provided by <a href="https://bedford.io/">Bedford.io</a> and the Kennerley Lab iteration can be forked from <a href="https://github.com/savuzmir/blotter">here</a>
+</p>
