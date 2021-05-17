@@ -72,17 +72,26 @@
 						<a class="mx-1" href="/papers/">papers</a>
 						</li>
 						{% if page.categories.first == 'resources' %}
+
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/projects/">resources</a></li>
+						<a class="mx-1" href="/resources/">resources</a></li>
+
 						{% if page.categories.first == 'team' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="/team/">team</a></li>
+
+						{% if page.categories.first == 'join' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/join/">join</a></li>
 					</ul>
 				</div>
 			</div>
