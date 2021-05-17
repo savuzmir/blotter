@@ -1,0 +1,30 @@
+---
+layout: default
+title: Kennerley lab / resources
+categories:
+ - resources
+---
+
+<div class="bigspacer"></div>
+
+{% for resource in site.categories.resources reversed %}
+    {% cycle 'add rows': '<div class="row">', '', '' %}
+		<div class="col-lg-4 memberbox">
+			<div class="media">
+ 			 	<div class="media-body">
+    				<div class="head mb-1"><a href="{{ resource.url }}" class="off">{{ resource.title }}</a></div>
+    				<p class="note">{{ resource.position }}</p>
+  				</div>
+			</div>
+			<div class="bigspacer"></div>
+			<div class="bigspacer"></div>
+        </div>
+    {% cycle 'close rows': '', '', '</div>' %}
+{% endfor %}
+{% cycle 'close rows': '', '</div>', '</div>' %}
+
+<div>
+<p>
+	This website was built using the template provided by <a href="https://bedford.io/">Bedford.io</a> and the Kennerley Lab iteration can be forked from <a href="https://github.com/savuzmir/blotter">here</a>
+</p>
+</div>
