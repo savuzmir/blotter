@@ -3,7 +3,7 @@ layout: paper
 title: Adaptive decision making and value in the anterior cingulate cortex
 authors: Walton Mark E., Croxson Paula L., Behrens Timothy E.J., Kennerley Steven W., Rushworth Matthew F. S.
 year: 2007
-ref: Walton et al. 2007 NeuroImage
+doi: 10.1016/j.neuroimage.2007.03.029
 ---
 
 # Abstract

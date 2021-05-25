@@ -4,7 +4,7 @@ title: Visual fixation patterns during economic choice reflect covert valuation 
 authors: Cavanagh Sean E., Malalasekera W. M. Nishantha, Miranda Bruno, Hunt Laurence T., Kennerley Steven W.
 year: 2019
 ref: Cavanagh et al. 2019, PNAS
-pdf: /pdfs/papers/22795.full.pdf
+doi: 10.1073/pnas.1906662116
 ---
 
 # Abstract

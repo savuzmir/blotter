@@ -4,7 +4,7 @@ title: Encoding of Reward and Space During a Working Memory Task in the Orbitofr
 authors: Kennerley Steven W., Wallis Jonathan D.
 year: 2009
 ref: Wallis et al. 2009 Journal of Neurophysiology
-pdf: /pdfs/papers/jn.00273.2009.pdf
+doi: 10.1152/jn.00273.2009
 ---
 
 # Abstract

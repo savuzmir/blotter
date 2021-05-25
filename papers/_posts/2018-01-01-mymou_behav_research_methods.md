@@ -4,7 +4,7 @@ title: Mymou- A low-cost, wireless touchscreen system for automated training of 
 authors: Butler James, Kennerley Steve
 year: 2018
 ref: Butler et al. 2018 Behavior Research Methods
-pdf: /pdfs/papers/Butler-Kennerley2019_Article_MymouALow-costWirelessTouchscr.pdf
+pdf: 10.3758/s13428-018-1109-5
 ---
 
 # Abstract

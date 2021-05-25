@@ -4,7 +4,7 @@ title: Contrasting reward signals in the orbitofrontal cortex and anterior cingu
 authors: Wallis Jonathan,  Kennerley Steve
 year: 2011
 ref: Wallis & Kennerley 2011, Annals of the New York Academy of Sciences
-pdf: /pdfs/papers/j.1749-6632.2011.06277.x.pdf
+doi: /10.1111/j.1749-6632.2011.06277.x
 ---
 
 # Abstract

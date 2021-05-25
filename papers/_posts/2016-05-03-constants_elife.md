@@ -4,7 +4,7 @@ title: Autocorrelation structure at rest predicts value correlates of single neu
 authors: Cavanagh Sean E, Wallis Joni D, Kennerley Steven W, Hunt Laurence T
 year: 2016
 ref: Cavanagh et al. 2016, eLife
-pdf: /pdfs/papers/elife-18937-v1.pdf
+pdf: 10.7554/eLife.18937
 ---
 
 # Abstract

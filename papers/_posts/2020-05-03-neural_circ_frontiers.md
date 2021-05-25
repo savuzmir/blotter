@@ -4,7 +4,7 @@ title: A Diversity of Intrinsic Timescales Underlie Neural Computations
 authors: Cavanagh Sean, Hunt Laurence T, Kennerley S
 year: 2020
 ref: Cavanagh et al. 2020 Front. Neural Circuits
-pdf: /pdfs/papers/fncir-14-615626.pdf
+doi: 10.3389/fncir.2020.615626
 ---
 
 # Abstract

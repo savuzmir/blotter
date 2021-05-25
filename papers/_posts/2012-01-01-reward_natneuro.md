@@ -4,7 +4,7 @@ title: Is the reward really worth it?
 authors: Kennerley Steven
 year: 2012
 ref: Kennerley 2012. Nature Neuroscience
-pdf: /pdfs/papers/nn.3096.pdf
+doi: 10.1038/nn.3096
 ---
 
 # Abstract

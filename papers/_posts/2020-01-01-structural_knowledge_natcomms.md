@@ -4,7 +4,7 @@ title: Transferring structural knowledge across cognitive maps in humans and mod
 authors: Mark Shirley, Moran Rani, Parr Thomas, Kennerley Steve W., Behrens Timothy EJ
 year: 2020
 ref: Mark al. 2020. Nature Communications
-pdf: /pdfs/papers/s41467-020-18254-6.pdf
+doi: 10.1038/s41467-020-18254-6
 ---
 
 # Abstract

@@ -4,7 +4,7 @@ title: Encoding of Gustatory Working Memory by Orbitofrontal Neurons
 authors: Lara Antonio H., Kennerley Steven W., Wallis Jonathan D.
 year: 2009
 ref: Lara et al. 2009 Journal of Neuroscience
-pdf: /pdfs/papers/765.full.pdf
+doi: /10.1523/JNEUROSCI.4637-08.2009
 ---
 
 # Abstract

@@ -4,7 +4,6 @@ title: Cognitive Neuroscience - Resolving Conflict in and over the Medial Fronta
 authors: Rushworth MFS, Kennerley SW, Walton ME
 year: 2005
 ref: Rushworth et al. 2005 Current Biology
-pdf: /pdfs/papers/PIIS0960982204010371.pdf
 ---
 
 # Abstract

@@ -4,7 +4,7 @@ title: Optimal decision making and the anterior cingulate cortex
 authors: Kennerley Steven W, Walton Mark E, Behrens Timothy E J, Buckley Mark J, Rushworth Matthew F S 
 year: 2006
 ref: Kennerley et al. 2006 Nature Neuroscience
-pdf: /pdfs/papers/nn1724.pdf
+doi: 10.1038/nn1724
 ---
 
 # Abstract

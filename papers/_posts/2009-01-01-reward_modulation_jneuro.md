@@ -4,7 +4,7 @@ title: Reward-Dependent Modulation of Working Memory in Lateral Prefrontal Corte
 authors: Kennerley Steven W., Wallis Jonathan D. 
 year: 2009
 ref: Kennerley et al. 2009 The Journal of Neuroscience
-pdf: /pdfs/papers/3259.full.pdf
+doi: /10.1523/JNEUROSCI.5353-08.2009
 ---
 
 # Abstract

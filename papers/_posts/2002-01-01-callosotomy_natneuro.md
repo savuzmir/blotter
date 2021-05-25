@@ -4,7 +4,6 @@ title: Callosotomy patients exhibit temporal uncoupling during continuous bimanu
 authors: Kennerley Steven, Diedrichsen Jorn, Hazeltine Eliot, Semje Andras, Ivry Richard B
 year: 2002
 ref: Kennerley et al. 2002 Nature Neuroscience
-pdf: /pdfs/papers/nn822.pdf
 ---
 
 # Abstract

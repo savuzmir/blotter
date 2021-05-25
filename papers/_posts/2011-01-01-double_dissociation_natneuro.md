@@ -4,7 +4,7 @@ title: Double dissociation of value computations in orbitofrontal and anterior c
 authors: Kennerley Steven W, Behrens Timothy E J, Wallis Jonathan D
 year: 2011
 ref: Kennerley et al. 2011 Nature Neuroscience
-pdf: /pdfs/papers/nn.2961.pdf
+doi: 10.1038/nn.2961
 ---
 
 # Abstract

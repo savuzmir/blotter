@@ -4,7 +4,7 @@ title: Single-Neuron Mechanisms Underlying Cost-Benefit Analysis in Frontal Cort
 authors: Hosokawa Takayuki, Kennerley Steven W., Sloan Jennifer, Wallis Jonathan D. 
 year: 2013
 ref: Hosokawa et al. 2013, J Neuro
-pdf: /pdfs/papers/17385.full.pdf
+doi: 10.1523/JNEUROSCI.2221-13.2013
 ---
 
 # Abstract

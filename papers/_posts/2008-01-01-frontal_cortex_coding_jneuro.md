@@ -4,7 +4,7 @@ title: Frontal Cortex Subregions Play Distinct Roles in Choices between Actions 
 authors: Rudebeck Peter H., Behrens Timothy E., Kennerley Steven W., Baxter Mark G., Buckley Mark J., Walton Mark E., Rushworth Matthew F. S.
 year: 2008
 ref: Rudebeck et al. 2008 Journal of Neuroscience
-pdf: /pdfs/papers/13775.full.pdf
+doi: /10.1523/JNEUROSCI.3541-08.2008
 ---
 
 # Abstract

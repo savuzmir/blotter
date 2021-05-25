@@ -4,7 +4,7 @@ title: Heterogeneous reward signals in prefrontal cortex
 authors: Wallis Jonathan D, Kennerley Steven W
 year: 2010
 ref: Wallis et al. 2010 Current Opinion in Neurobiology
-pdf: /pdfs/papers/1-s2.0-S0959438810000310-main.pdf
+doi: 10.1016/j.conb.2010.02.009
 ---
 
 # Abstract

@@ -4,7 +4,6 @@ title: Bimanual Interference Associated With the Selection of Target Locations
 authors: Diedrichsen Jorn, Ivry Richard B, Hazeltine Eliot, Kennerley Steven, Cohen Asher
 year: 2003
 ref: Diedrichsen et al. 2003 Journal of Experimental Psychology
-pdf: /pdfs/papers/dihkc2003.pdf
 ---
 
 # Abstract

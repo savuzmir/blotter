@@ -4,7 +4,7 @@ title: Combined model-free and model-sensitive reinforcement learning in non-hum
 authors: Miranda Bruno, Malalasekera WM Nishantha, Behrens Timothy EJ, Dayan Peter, Kennerley Steven W
 year: 2020
 ref: Miranda et al. 2020. PLOS Comp Bio
-pdf: /pdfs/papers/pcbi.1007944.pdf
+pdf: 10.1371/journal.pcbi.1007944Se
 ---
 
 # Abstract

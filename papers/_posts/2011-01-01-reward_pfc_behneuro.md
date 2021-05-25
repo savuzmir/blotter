@@ -4,7 +4,7 @@ title: Decision Making and Reward in Frontal Cortex - Complementary Evidence Fro
 authors: Kennerley Steve, Walton, Mark
 year: 2011
 ref: Kennerley & Walton 2011 Behavioural Neuroscience
-pdf: /pdfs/papers/2011-08837-001.pdf
+doi: /10.1037/a0023575
 ---
 
 # Abstract

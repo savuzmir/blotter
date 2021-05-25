@@ -4,7 +4,7 @@ title: Neurons in the Frontal Lobe Encode the Value of Multiple Decision Variabl
 authors: Kennerley Steven W., Dahmubed Aspandiar F., Lara Antonio H., Wallis Jonathan D.
 year: 2008
 ref: Kennerley et al. 2008 Journal of Cognitive Neuroscience
-pdf: /pdfs/papers/jocn.2009.21100.pdf
+doi: 10.1162/jocn.2009.21100.
 ---
 
 # Abstract

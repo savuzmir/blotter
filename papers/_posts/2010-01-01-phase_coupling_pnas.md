@@ -4,7 +4,7 @@ title: Oscillatory phase coupling coordinates anatomically dispersed functional 
 authors: Canolty Ryan T., Ganguly Karunesh, Kennerley Steven W., Cadie Charles F., Koepsell Kilian, Wallis Jonathan D., Carmena Jose M.
 year: 2010
 ref: Canolty et al. 2010 PNAS
-pdf: /pdfs/papers/17356.full.pdf
+doi: 10.1073/pnas.1008306107
 ---
 
 # Abstract

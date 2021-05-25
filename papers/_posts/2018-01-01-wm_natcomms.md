@@ -4,7 +4,7 @@ title: Reconciling persistent and dynamic hypotheses of working memory coding in
 authors: Cavanagh Sean E., Towers John P., Wallis Joni D., Hunt Laurence T., Kennerley Steven W.
 year: 2018
 ref: Cavanagh et al 2018 Nature Communications
-pdf: /pdfs/papers/s41467-018-05873-3.pdf
+pdf: 10.1038/s41467-018-05873-3
 ---
 
 # Abstract

@@ -4,7 +4,7 @@ title: Approach-Induced Biases in Human Information Sampling
 authors: Hunt Laurence T., Rutledge Robb B., Malalasekera W. M. Nishantha, Kennerley Steven W., Dolan Raymond J.
 year: 2016
 ref: Hunt et al. 2016, PLOS Comp Bio
-pdf: /pdfs/papers/pbio.2000638.pdf
+doi: /10.1371/journal.pbio.2000638
 ---
 
 # Abstract

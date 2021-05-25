@@ -4,7 +4,6 @@ title: Bimanual cross-talk during reaching movements is primarily related to res
 authors: Eliot Hazeltine, Joern Diedrichsen, Steven W. Kennerley & Richard B. Ivry 
 year: 2003
 ref: Hazeltine et al. 2003 Psychological Research
-pdf: /pdfs/papers/Hazeltine2003_Article_BimanualCross-talkDuringReachi.pdf
 ---
 
 # Abstract

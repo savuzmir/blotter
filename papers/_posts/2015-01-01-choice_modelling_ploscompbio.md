@@ -4,7 +4,7 @@ title: Behavioral Modeling of Human Choices Reveals Dissociable Effects of Physi
 authors: Klein-Flügge Miriam C., Kennerley Steven W., Saraiva Ana C., Penny Will D., Bestmann Sven 
 year: 2015
 ref: Klein-Flügge et al. 2015 PLOS Comp Bio
-pdf: /pdfs/papers/pcbi.1004116.pdf
+doi: /10.1371/journal.pcbi.1004116
 ---
 
 # Abstract

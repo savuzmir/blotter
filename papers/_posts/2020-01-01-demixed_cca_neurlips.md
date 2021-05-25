@@ -4,7 +4,6 @@ title: Demixed shared component analysis of neural population data from multiple
 authors: Takagi Yu, Kennerley Steven W. Hirayama Jun-ichiro, Hunt Laurence T.
 year: 2020
 ref: Takagi et al. 2020 NeurlIPS 
-pdf: /pdfs/papers/2006.10212.pdf
 ---
 
 # Abstract

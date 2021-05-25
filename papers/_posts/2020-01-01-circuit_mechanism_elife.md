@@ -4,7 +4,7 @@ title: A circuit mechanism for decision-making biases and NMDA receptor hypofunc
 authors: Cavanagh Sean Edward, Lam Norman H, Murray John D, Hunt Laurence Tudor, Kennerley Steven Wayne
 year: 2020
 ref: Cavanagh et al. 2020 eLife
-pdf: /pdfs/papers/elife-53664-v3.pdf
+pdf: 10.7554/eLife.53664
 ---
 
 # Abstract

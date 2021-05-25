@@ -4,7 +4,7 @@ title: Capturing the temporal evolution of choice across prefrontal cortex
 authors: Hunt Laurence T, Behrens Timothy EJ, Hosokawa Takayuki, Wallis Jonathan D, Kennerley Steven W
 year: 2015
 ref: Hunt et al. 2015 eLife
-pdf: /pdfs/papers/elife-11945-v2.pdf
+doi: 10.7554/eLife.11945
 ---
 
 # Abstract

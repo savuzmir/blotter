@@ -4,7 +4,6 @@ title: In the blink of an eye - Value and novelty drive saccades
 authors: Cavanagh Sean, Malalasekera Nishantha, Kennerley Steve
 year: 2015
 ref: Cavanagh et al. 2015, Annals of Medicine and Surgery
-pdf: /pdfs/papers/1-s2.0-S2049080115000709-main.pdf
 ---
 
 # Abstract

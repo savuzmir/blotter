@@ -4,7 +4,7 @@ title: Triple dissociation of attention and decision computations across prefron
 authors: Hunt Laurence T., Malalasekera W. M. Nishantha, Berker Archy O. de, Miranda Bruno, Farmer Simon F., Behrens Timothy E. J., Kennerley Steven W.
 year: 2018
 ref: Hunt et al. 2018 Nature Neuroscience
-pdf: /pdfs/papers/s41593-018-0239-5.pdf
+doi: 10.1038/s41593-018-0239-5
 ---
 
 # Abstract

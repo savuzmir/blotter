@@ -4,7 +4,7 @@ title: Neural Signatures of Value Comparison in Human Cingulate Cortex during De
 authors: Klein-Flügge Miriam C., Kennerley Steven W., Friston Karl, Bestmann Sven
 year: 2016
 ref: Klein-Flügge et al. 2016. J Neuro
-pdf: /pdfs/papers/10002.full.pdf
+pdf: /10.1523/JNEUROSCI.0292-16.2016
 ---
 
 # Abstract
