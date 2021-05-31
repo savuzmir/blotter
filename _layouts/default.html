@@ -86,6 +86,13 @@
 						{% endif %}
 						<a class="mx-1" href="/resources/">resources</a></li>
 
+						{% if page.categories.first == 'datasets' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/datasets/">datasets</a></li>
+
 						{% if page.categories.first == 'team' %}
 						<li class="nav-link active">
 						{% else %}
