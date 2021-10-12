@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Elena Gutierrez
-position: Rotation Student
+position: PhD Student
 alumni: false
 ---
 
