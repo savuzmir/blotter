@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Sebastijan Veselic
-position: PhD student
+position: Postdoc
 github: savuzmir
 twitter: savuzmir
 alumni: false
