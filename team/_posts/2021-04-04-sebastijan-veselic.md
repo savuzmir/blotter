@@ -6,4 +6,4 @@ github: savuzmir
 twitter: savuzmir
 alumni: false
 ---
-I am part of the <a href="http://ecologicalbrain.org/">Ecological Brain DTP</a>. I am interested in what is going on in the brain, and why in that way, when we decide to take actions in the world. 
+I am a computational neuroscience research fellow. I am interested in what is going on in the brain, and why in that way, when we decide to take actions in the world. This involves work on cognitive maps and neural replay.  
