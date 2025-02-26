@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Julian Ng Kee Kwong
-position: PhD Student
+position: PhD Student (Rotation)
 github: 
 scholar: 
 orcid: 
