@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Janahan Selvanayagam
-position: Postdoc
+position: Senior Postdoc
 github: jselvan
 scholar: vUm9e6sAAAAJ
 orcid: 0000-0002-3708-8742
