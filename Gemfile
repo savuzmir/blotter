@@ -1,17 +1,14 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-# jekyll
-gem "jekyll", "4.2.0"
+gem "jekyll", ">= 4.3.3"
 
-# katex
+# Ruby 3.4 stdlib gems that are no longer default
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+
 gem "execjs"
-
-# octokit
-gem 'octokit'
-gem 'netrc'
-
-# Twitter
-gem 'jekyll-twitter-plugin'
-
-gem 'webrick'
-
+gem "jekyll-twitter-plugin"
+gem "netrc"
+gem "octokit"
+gem "webrick"
