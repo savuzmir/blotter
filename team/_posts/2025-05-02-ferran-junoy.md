@@ -1,11 +1,7 @@
 ---
 layout: member
 title: Ferran Junoy
-<<<<<<< HEAD
-position: PhD Student
-=======
 position: DPhil Student
->>>>>>> 2d6774d2 (Local updates)
 github: 
 scholar: 
 orcid: 
