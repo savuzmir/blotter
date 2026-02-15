@@ -1,0 +1,9 @@
+{
+  "name": "blotter",
+  "private": true,
+  "scripts": {
+    "build": "bundle exec jekyll build",
+    "dev": "bundle exec jekyll serve --livereload",
+    "start": "npx serve _site"
+  }
+}
